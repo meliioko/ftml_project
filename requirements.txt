@@ -1,5 +1,6 @@
 ipykernel
 numpy
 matplotlib
-sklearn
 pandas
+scikit-learn
+seaborn
